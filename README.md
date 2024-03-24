@@ -1,4 +1,4 @@
-# *TweetMood: Analyzing Brand Sentiment Trends*
+# TweetMood: Analyzing Brand Sentiment Trends
 
 # Authors
 1. David Mwangi
