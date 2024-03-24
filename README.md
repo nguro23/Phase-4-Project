@@ -1,4 +1,16 @@
-# Phase-4-Project
+*TweetMood: Analyzing Brand Sentiment Trends*
+
+# Authors
+1. David Mwangi
+
+2. Anita Bosibori
+
+3. acqueline Chepkwony
+
+4. Daniel Muriithi
+
+5. Joan Wambua
+   
 
 # INTRODUCTION
 
